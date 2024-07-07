@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Path to the users.txt file
-const usersFilePath = path.join(__dirname, 'users.txt');
+const usersFilePath = path.join(__dirname, 'Files/users.txt');
 
 // Create the HTTP server
 const server = http.createServer((req, res) => {
