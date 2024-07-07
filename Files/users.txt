@@ -1,0 +1,4 @@
+firstName, lastName, dateOfBirth, country, interest
+John, Doe, 1990-05-15, USA, Reading
+Jane, Smith, 1985-11-23, Canada, Hiking
+Sara, Alexander, 1990-10-19, Uk, Swimming
